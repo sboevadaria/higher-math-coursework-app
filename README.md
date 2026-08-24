@@ -41,7 +41,7 @@ MathGo/
 
 Developed as a coursework software product. The application runs locally on iOS simulator and physical devices via Xcode.
 
-## Examplrs
+## Examples
 
 <details>
 <summary>👻 Press to see the images</summary>
@@ -49,7 +49,7 @@ Developed as a coursework software product. The application runs locally on iOS 
 
 ### ‘Login & Authentication’
 
-![График 1](images/IMG_1892.jpeg)
+![График 1](images/IMG_1894.jpeg)
 
 
 ### 'Home Screen’
@@ -59,7 +59,7 @@ Developed as a coursework software product. The application runs locally on iOS 
 
 ### 'Data Visualization'
 
-![График 3](images/IMG_1894.jpeg)
+![График 3](images/IMG_1892.jpeg)
 
 
 ### ‘Practice Tasks’
