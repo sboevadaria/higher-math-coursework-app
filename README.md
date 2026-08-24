@@ -49,22 +49,22 @@ Developed as a coursework software product. The application runs locally on iOS 
 
 ### ‘Login & Authentication’
 
-![График 1](images/box_plot.png)
+![График 1](images/IMG_1892.jpeg)
 
 
 ### 'Home Screen’
 
-![График 2](images/line_plot.png)
+![График 2](images/IMG_1893.jpeg)
 
 
 ### 'Data Visualization'
 
-![График 3](images/scatter_plot.png)
+![График 3](images/IMG_1894.jpeg)
 
 
 ### ‘Practice Tasks’
 
-![График 4](images/photo
+![График 4](images/IMG_1895.jpeg)
 
 
 </details>
