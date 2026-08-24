@@ -40,3 +40,32 @@ MathGo/
 ## Status
 
 Developed as a coursework software product. The application runs locally on iOS simulator and physical devices via Xcode.
+
+## Examplrs
+
+<details>
+<summary>👻 Press to see the images</summary>
+
+
+### ‘Login & Authentication’
+
+![График 1](images/box_plot.png)
+
+
+### 'Home Screen’
+
+![График 2](images/line_plot.png)
+
+
+### 'Data Visualization'
+
+![График 3](images/scatter_plot.png)
+
+
+### ‘Practice Tasks’
+
+![График 4](images/photo
+
+
+</details>
+
